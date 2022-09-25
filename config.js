@@ -54,8 +54,8 @@ global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085380166282' //Nomor Danamu
-global.ppulsa = '085295374964' //Nomor SimCard Yang Kamu Pake
+global.pdana = '085158121779' //Nomor Danamu
+global.ppulsa = '085158121779' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/MaxxyBotz' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
