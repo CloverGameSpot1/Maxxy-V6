@@ -11,9 +11,9 @@
 // • yusuf
 // • clover
 // • badrun
-// • Rasel comel
-// • ImYanXiao
-// • Xtreshe (Beban)
+// • fajri pedo
+// • dede satir
+// • fandy (Beban)
 // • Dll
 
 //[!] Jangan Lupa Ganti Ownernya
@@ -99,9 +99,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛'
+global.wm = '                「 CloverBotz汉  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘CloverBotz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ CloverBotz'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
@@ -370,7 +370,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 global.stickpack = '.'
 global.stickauth = `☂︎\n𝗘\nl\na\ni\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ Clover'
 
 global.multiplier = 38 // The higher, The harder levelup
 
