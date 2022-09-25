@@ -1,16 +1,16 @@
-// S C R I P T  O R I  B Y  Bochilgaming 🔭
-// Ditulis Ulang Oleh ImYanXiao
+// S C R I P T  O R I  B Y  Clovergaming 🔭
+// Ditulis Ulang Oleh Clover
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
 // • Allah SWT
-// • Nurutomo
-// • Bochilgaming
-// • Rominaru
-// • Kannachann
-// • FahriAdison
-// • The.Sad.Boy01
-// • Rlxfly
+// • Juned
+// • yunus
+// • botjerr
+// • jeri
+// • yusuf
+// • clover
+// • badrun
 // • Rasel comel
 // • ImYanXiao
 // • Xtreshe (Beban)
@@ -59,15 +59,15 @@ global.ppulsa = '085295374964' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/MaxxyBotz' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285295374964' //Nomor Bot
-global.nomorown = '6285380166282' //Nomor Owner
-global.namebot = '𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛' //Nama Bot
-global.nameown = '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿' // Nama Owner
+global.nomorbot = '085228679898' //Nomor Bot
+global.nomorown = '6285158121779' //Nomor Owner
+global.namebot = 'CloverBotz' //Nama Bot
+global.nameown = 'Clover' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285380166282', '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿', true] //Ganti jd nomormu sama Namamu
+  ['6285158121779', 'Clover', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
