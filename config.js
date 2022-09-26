@@ -48,7 +48,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/maxxy_ofc' //Link Instagrammu
-global.sgh = 'https://github.com/' //Link Githubmu
+global.sgh = 'https://github.com/CloverGameSpot1' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/K6femuL8bLx6HqWS7wXofI'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
@@ -383,9 +383,9 @@ global.rpg = {
       limit: '🎫',
       health: '❤️',
       exp: '✨',
-      money: '💹',
+      money: '💵',
       bank: '🏦',
-      potion: '🥤',
+      potion: '🧪',
       diamond: '💎',
       common: '📦',
       uncommon: '🛍️',
